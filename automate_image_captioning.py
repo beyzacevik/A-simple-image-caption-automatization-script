@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""anomaly_caption_labelling.ipynb
+"""You can save time and ease the image captioning process using this code.
 
 
 Data Preperation
